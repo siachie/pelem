@@ -1,0 +1,15 @@
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/hbo-logo-black-and-white.png" group-title="FILM", HBO
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+#http://136.243.177.164/HBO/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+ 
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="FILM",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+ 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="FILM",HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="FILM",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+ 
+#EXTINF:0 tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="FILM",Red By HBO
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
